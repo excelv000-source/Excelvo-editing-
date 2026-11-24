@@ -1,0 +1,6 @@
+{
+  "name": "Excevo Edit",
+  "description": "EXCEVO EDIT — Cross-platform mobile non-linear video editor with multi-track timeline, GPU effects, audio mixing, and AI-assisted editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

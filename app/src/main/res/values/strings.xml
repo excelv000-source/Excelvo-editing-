@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Excevo Edit</string>
+    <string name="brand_wordmark">EXCEVO EDIT</string>
+    <string name="brand_subtitle">EXCEVO STUDIO · PHASE 3</string>
+    <string name="brand_tagline">Create Beyond Limits</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_presets">Presets</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Home -->
+    <string name="home_welcome_tag">EXCEVO STUDIO</string>
+    <string name="home_hero_title">Craft Precision Edits</string>
+    <string name="home_hero_subtitle">Create Beyond Limits — multi-track non-destructive timeline, calibrated dark workspace, and 100% free creator presets.</string>
+    <string name="new_composition">New Composition</string>
+    <string name="ai_lab_title">EXCEVO AI Lab</string>
+    <string name="ai_lab_subtitle">Smart Sequence Pacing Analyzer active · Cloud Gemini tools unlock in Phase 7</string>
+    <string name="recent_projects_title">Recent Projects</string>
+    <string name="ai_tools_title">AI Tools</string>
+
+    <!-- Projects -->
+    <string name="new_project">New Project</string>
+    <string name="create_project_title">New Composition</string>
+    <string name="project_name_label">Sequence Name</string>
+    <string name="project_name_placeholder">Untitled Cut</string>
+    <string name="aspect_ratio_label">Canvas Aspect Ratio</string>
+    <string name="resolution_label">Target Resolution</string>
+    <string name="frame_rate_label">Timeline Frame Rate</string>
+    <string name="create_and_open">Create &amp; Open</string>
+    <string name="continue_editing">Continue Editing</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="empty_hub_title">Your Studio Awaits</string>
+    <string name="empty_hub_body">Create a precision multi-track sequence with calibrated purple dark workspace, real media probing, and non-destructive edits.</string>
+
+    <!-- Presets -->
+    <string name="presets_title">Presets</string>
+    <string name="presets_free_badge">100% FREE · NO PAYMENTS</string>
+    <string name="apply_preset">Apply Preset</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Profile &amp; Studio</string>
+    <string name="excevo_library_title">EXCEVO Library</string>
+
+    <!-- Studio -->
+    <string name="import_media">Import Media</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="split">Split</string>
+    <string name="trim">Trim</string>
+    <string name="move_earlier">Move Left</string>
+    <string name="move_later">Move Right</string>
+    <string name="delete_clip">Delete</string>
+    <string name="safe_guides">Safe Guides</string>
+    <string name="save_project">Save</string>
+    <string name="workspace_label">Workspace</string>
+    <string name="export_preflight">Export Pre-Flight</string>
+</resources>

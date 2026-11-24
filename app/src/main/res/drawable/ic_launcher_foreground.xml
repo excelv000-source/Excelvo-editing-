@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Precision vertical spine -->
+    <path
+        android:fillColor="#F4F6FA"
+        android:pathData="M31,32 L40,32 L40,76 L31,76 Z" />
+    <!-- Top beveled prism arm -->
+    <path
+        android:fillColor="#F4F6FA"
+        android:pathData="M31,32 L66,32 L59,41 L31,41 Z" />
+    <!-- Bottom beveled prism arm -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M31,67 L59,67 L66,76 L31,76 Z" />
+    <!-- Central electric purple play/cut blade -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M45,44 L77,54 L45,64 L50,54 Z" />
+</vector>
